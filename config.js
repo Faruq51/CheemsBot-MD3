@@ -8,7 +8,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
@@ -24,28 +24,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.owner = ['6285807264974'] //ur owner number
+global.ownername = "FARUQ OFC"
+global.ytname = "YT:FARUQ OFC" //ur yt chanel name
+global.socialm = "GitHub: wongedan21" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "Simple Bot" //ur bot name
+global.websitex = "https://youtube.com/channel/JSU72HSJjdi229e7" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
-global.themeemoji = "📀"
+global.author = "FARUQ OFC"
+global.themeemoji = "😈"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
+global.ownertag = ['FARUQ OFC'] //ur owner tag
+global.ownernummenu = ['6285807264974'] //ur owner number in menu and all
+global.watermark = "SimpleBot" //ur watermark
+global.botscript = "https://youtu.beI"
+global.linkz1 = "https:/"
 global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
 
-//Bot theme media
+//Bot theme mediahttps://youtu.be/ng2KdbHw1WI
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
